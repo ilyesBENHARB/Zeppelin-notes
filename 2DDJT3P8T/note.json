@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "a\u003d5",
+      "text": "b\u003d6\na\u003d5",
       "user": "admin",
-      "dateUpdated": "May 17, 2018 11:20:19 AM",
+      "dateUpdated": "May 17, 2018 11:23:50 AM",
       "config": {
         "colWidth": 12.0,
         "enabled": true,
@@ -23,7 +23,7 @@
         "msg": [
           {
             "type": "TEXT",
-            "data": "failed to start python"
+            "data": "python process not runningorg.apache.zeppelin.interpreter.util.InterpreterOutputStream@4cf3384d"
           }
         ]
       },
@@ -31,8 +31,8 @@
       "jobName": "paragraph_1526548811225_-45520322",
       "id": "20180517-112011_842544664",
       "dateCreated": "May 17, 2018 11:20:11 AM",
-      "dateStarted": "May 17, 2018 11:20:19 AM",
-      "dateFinished": "May 17, 2018 11:20:22 AM",
+      "dateStarted": "May 17, 2018 11:23:50 AM",
+      "dateFinished": "May 17, 2018 11:23:50 AM",
       "status": "ERROR",
       "progressUpdateIntervalMs": 500
     },
